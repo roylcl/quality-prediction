@@ -1,13 +1,6 @@
 # Injection Moulding Machine - Quality Prediction 
 
-This project is part of my university assignment focusing on supervised learning technique applied to experimental data collected from injection molding machine under 3 different manufacturing conditons: normal condition, condition n1 and condition n5. The project aims to use various machine learning algorithms to build models for prediction,  addressing the following tasks:
-
-## Introduction
-
-The project focuses on predicting the quality of an injection molding machine under different manufacturing conditions: normal, n1, and n5. The primary objectives include:
-- **Problem Statement Discussion:** Understand and discuss the challenges and objectives related to predicting the quality of injection molding under different conditions.
-- **Regression or Classification:** Determine whether the problem is a regression or classification issue based on the nature of the prediction task.
-- **Data Separation:** Use the K-fold method to separate the experimental data into training and testing datasets.
+This project is part of my university assignment focusing on supervised learning technique applied to experimental data collected from injection molding machine under 3 different manufacturing conditons: normal condition, condition n1 and condition n5. 
 
 ## Features
 - **Supervised Learning Techniques Implementation:** The project implements three different supervised learning algorithms for predictive modelling.
